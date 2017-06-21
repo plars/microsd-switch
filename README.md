@@ -1,6 +1,6 @@
 ## MicroSD Switch
 
-This a derivative work of a similar project by Joel Agnel.  You can find
+This a derivative work of a similar project by Joel Fernandes.  You can find
 his original works that this is based on at:
 https://github.com/joelagnel/microsd-switch
 
